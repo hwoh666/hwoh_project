@@ -1,4 +1,4 @@
 def main():
-    print("putin eat some shit")
+    print("putin eat more shit")
     
 main()
